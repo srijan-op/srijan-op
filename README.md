@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srijan Oraon</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
-- 🌱 I’m currently learning **Data Engineering**
-
 - 👨‍💻 All of my projects are available at [https://github.com/srijan-op?tab=repositories](https://github.com/srijan-op?tab=repositories)
 
 - 💬 Ask me about **AI/ML**
